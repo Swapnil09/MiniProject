@@ -1,0 +1,400 @@
+<resources>
+    <string name="app_name">MahaWild</string>
+
+    <string name="navigation_view_item_1">Wildlife Sanctuaries</string>
+    <string name="navigation_view_item_2">National Parks</string>
+    <string name="navigation_view_item_3">Bird Sanctuaries</string>
+    <string name="navigation_view_item_6">MahaEco Tourism</string>
+    <string name="navigation_view_item_7">Safari Booking</string>
+    <string name="navigation_view_item_8">Accommodation</string>
+    <string name="navigation_view_item_9">Nearby Attractions</string>
+    <string name="navigation_view_item_10">About Us</string>
+
+    <string-array name="wls_name">
+     <item>Amba Barwa</item>
+     <item>Aner Dam</item>
+     <item>Bhamragarh</item>
+     <item>Bhimashankar</item>
+     <item>Bor</item>
+     <item>Chaprala</item>
+     <item>Dhyanganga </item>
+     <item>Gautala-Autramghat</item>
+     <item>Kalsubai Harishchandragad</item>
+     <item>Katepurna</item>
+     <item>Koyana</item>
+     <item>Malvan Marine</item>
+     <item>Mansingdeo</item>
+     <item>Mayureswar Supe</item>
+     <item>Melghat</item>
+     <item>Nagzira</item>
+     <item>Naigaon Mayur</item>
+     <item>New Bor</item>
+     <item>Painganga</item>
+     <item>Radhanagari</item>
+     <item>Rehekuri Blackbuck</item>
+     <item>Sagareshwar</item>
+     <item>Tansa</item>
+     <item>Tipeshwar</item>
+     <item>Tungareshwar</item>
+     <item>Umred-Kharandla</item>
+     <item>Wan</item>
+     <item>Yawal</item>
+     <item>Yedshi Ramling </item>
+    </string-array>
+   <string-array name="wls_estb">
+    <item>1997</item>
+    <item>1986</item>
+    <item>1997</item>
+    <item>1985</item>
+    <item>1970</item>
+    <item>1986</item>
+    <item>1997</item>
+    <item>1986</item>
+    <item>1986</item>
+    <item>1988</item>
+    <item>1985</item>
+    <item>1987</item>
+    <item>2010</item>
+    <item>1997</item>
+    <item>1985</item>
+    <item>1970</item>
+    <item>1994</item>
+    <item>2012</item>
+    <item>1986</item>
+    <item>1958</item>
+    <item>1983</item>
+    <item>1985</item>
+    <item>1970</item>
+    <item>1997</item>
+    <item>2003</item>
+    <item>2012</item>
+    <item>1997</item>
+    <item>1969</item>
+    <item>1997</item>
+   </string-array>
+   <string-array name="wls_area">
+    <item>127.11</item>
+    <item>82.94</item>
+    <item>104.38</item>
+    <item>130.78</item>
+    <item>61.1</item>
+    <item>134.78</item>
+    <item>205.23</item>
+    <item>260.61</item>
+    <item>361.71</item>
+    <item>73.63</item>
+    <item>423.55</item>
+    <item>29.122</item>
+    <item>182.59</item>
+    <item>5.15</item>
+    <item>778.75</item>
+    <item>152.81</item>
+    <item>28.89</item>
+    <item>60.70</item>
+    <item>324.62</item>
+    <item>351.16</item>
+    <item>2.17</item>
+    <item>10.87</item>
+    <item>304.81</item>
+    <item>148.63</item>
+    <item>85</item>
+    <item>189.30</item>
+    <item>211</item>
+    <item>177.52</item>
+    <item>22.38</item>
+   </string-array>
+  <string-array name="wls_location">
+   <item>Sangrampur Taluka, Buldhana District</item>
+   <item>SouthWestern range of Satpura range, Shirpur Tehsil, Dhule District</item>
+   <item>Chandrapur district</item>
+   <item>Ambegaon and Khed talukas, Pune District</item>
+   <item>Hingani, Wardha District</item>
+   <item>Chaprala, Gadchiroli district</item>
+   <item>Buldhana district</item>
+   <item>Satmala and Ajantha hill ranges of the Western Ghats, Aurangabad District and Jalgaon District</item>
+   <item>Ahmednagar District</item>
+   <item>40 km outside the city of Akola</item>
+   <item>Satara district</item>
+   <item>Malvan Taluka, Sindhudurg District</item>
+   <item>50 km from Nagpur</item>
+   <item>Tehsil Baramati, Pune district</item>
+   <item>Amravati District</item>
+   <item>Bhandara district and Gondia district</item>
+   <item>Patoda Taluka, Beed district</item>
+   <item>Wardha District</item>
+   <item>Umarkhed Tehsil, Yavatmal district</item>
+   <item>Kolhapur district</item>
+   <item>Karjat taluka, Ahmednagar district</item>
+   <item>Sangli district</item>
+   <item>Wada, Shahapur and Mokhada Talukas, Thane district</item>
+   <item>Yavatmal District</item>
+   <item>Virar and Vasai, Mumbai</item>
+   <item>58 km from Nagpur and 60 km from Bhandara spreed over Pauni Tahsil, Bhandara district</item>
+   <item>Chikhaldara, Amravati District</item>
+   <item>Yawal Tehsil of Jalgaon district</item>
+   <item>Osmanabad district</item>
+  </string-array>
+   <string-array name="wls_fauna">
+    <item>Tiger, Leopard, Sambar, Wildboar, Barking deer, Chousinga (Four horned deer)</item>
+    <item>Barking deers, Chinkaras, Hares, porcupines, jungle cats, Migarnts animals include Hyenas, Jackals, Wolves ,wild boars</item>
+    <item>Leopard, Wild Boar, Jungle Fowl, Sloth Bear, Blue Bull, Barking Deer, Flying Squirrel</item>
+    <item>Leopard, panther, hyenas, rhesus, macaque</item>
+    <item>bengal tiger, indian leopard, indian bison, blue bull, chital, sambar deer, peacock, barking deer, mouse deer, monkey, wild boar, sloth bear, wild dog</item>
+    <item>Tigers, leopards, jungle cats, bears, Wild dogs, Deer, Sambar and many other animals</item>
+    <item>Leopards, sloth bears, barking deer, blue bulls, spotted deer, hyenas, jungle cats ,jackals ,tigers</item>
+    <item>Chinkara, Sloth bears, Bats, Wanderoo, Wild boar, Jungle cat, Monkey, Leopard cat, Civet cat, Barking deer, Fox, Jackal, Langoor, Leopard, Nilgai, Hare, Bats, Grey Langur, Dhole, Wolf </item>
+    <item>Leopard, Jungle Cat, Palm civet, Mongoose yena, Wolf, Jackal, Fox ,Wild Boar, barking deer, Hare, Sambar, bats</item>
+    <item>Four horned antelope, Leopard, Wolf, Hyenas, Black Buck, Wild hog, Nilgai, Hare, Monkey, Jungle feline</item>
+    <item>Tigers,Indian leopards, Indian bison, sloth bears, sambar deer, barking deer ,mouse deer, common gray langurs, smooth-coated otters ,Indian giant squirrels</item>
+    <item>Sambars, barking deer, wild boars, leopards, nilgai</item>
+    <item>tigers, sloth bear , leopard, bisons, deer, sambar, nilgais, wild boars, jungle cats, barking deer</item>
+    <item>Indian Gazelle (Chinkara), Striped Hyena, Indian gray wolf, Indian Jackal, Indian fox,Indian Hare (black-naped hare)</item>
+    <item>tiger, panther, leopard, dhole, sloth bears, gaur, spotted deer, sambar, hyena, jackal</item>
+    <item>tiger, leopard, spotted deer, sambar deer, gaur, langur, dole, sloth bear</item>
+    <item>wolf, fox, hyena, black buck porcupine, palm civet, jungle cat, hare</item>
+    <item>Bengal tiger, Indian leopard, Indian bison, blue bull, chital, sambar deer, peacock, barking deer, mouse deer, monkey, wild boar, sloth bear, and wild dog</item>
+    <item>Fox, Leopard, Jackal, Hare, Four Horned Antelope, Porcupine, Sambar, Nilgai, Black Buck, Chinkar</item>
+    <item>panthers, wild boars, hyenas, sambars, wild dogs, barking deers, indian giant squirrel, leopard, mouse deer</item>
+    <item>tiger, leopard, gaur, sloth bear, giant squirrel, mouse deer, barking deer</item>
+    <item>Blackbucks, chinkaras, wolves, Indian fox</item>
+    <item>antelope, hyena, wolf, fox, rabbit, wild cat</item>
+    <item>Wild boar, Jackal, Panther, Four-Horned Antelope, Common Langur, Barking Deer, Chital, Leopard, Mouse Deer, Sambar, Hyena</item>
+    <item>Leopard, rusty-spotted cat, common palm civet, jackal, fox, common langur, common mongoose, black-naped hare, sambar and barking deer</item>
+    <item>tiger, small indian civet cat, blackbuck, sloth bear, leopard, dhole, ratels, indian foxes, wolves, jackal jungle cat, gaur, blue bull, sambar deer, barking deer, wild boar, spotted deers</item>
+    <item>tigers, leopards, hyena, wild dogs, bison, sambar, barking deer, wild boar</item>
+    <item>tiger, wild pooch, hyena, wolf, nilgai, arking deer, palm civet, flying squirrel, jungle feline, chinkara, leopard</item>
+    <item>wild boar, wolf, hyena</item>
+   </string-array>
+   <string-array name="wls_visit">
+    <item>January, February, March, April, May, October, November, December</item>
+    <item>January, February, November, December</item>
+    <item>February, March, April, May</item>
+    <item>January, February, March, April, May, October, November, December</item>
+    <item>April, May</item>
+    <item>February, March, April, May</item>
+    <item>February, March, April, May</item>
+    <item>January, February, March</item>
+    <item>August, September, October, November, December</item>
+    <item>All round the year</item>
+    <item>January, February, March, April, May, June, October, November, December</item>
+    <item>January, February, March, April, May, June, July, August, September, October, November, December</item>
+    <item>March, April, May, June</item>
+    <item>January, February, August, October, November, December</item>
+    <item>January, February, March, April, May, October, November, December</item>
+    <item>April, May</item>
+    <item>June, July, August, September, October</item>
+    <item>April, May</item>
+    <item>January, February, March, April, May, October, November, December</item>
+    <item>January, February, March, April, May, October, November, December</item>
+    <item>January, August, September, October, November, December</item>
+    <item>All round the year</item>
+    <item>January, February, March, April, May, November, December</item>
+    <item>April, May</item>
+    <item>All round the year</item>
+    <item>January, February, March, April, May, June, October, November, December</item>
+    <item>January, February, March, April, May, June, October, November, December</item>
+    <item>All round the year</item>
+    <item>January, February, March, April, May, October, November, December</item>
+   </string-array>
+ <string-array name="longitude">
+   <item>21.2189098</item>
+   <item>21.320007</item>
+   <item>19.414835</item>
+   <item>19.054586</item>
+   <item>20.957715</item>
+   <item>19.5740619</item>
+   <item>20.7325211</item>
+   <item>20.3252894</item>
+   <item>19.6012285</item>
+   <item>20.4650286</item>
+   <item>17.6774551</item>
+   <item>16.0629828</item>
+   <item>21.4976089</item>
+   <item>18.3508516</item>
+   <item>21.4060416</item>
+   <item>21.2480689</item>
+   <item>18.881636</item>
+   <item>20.9791118</item>
+   <item>20.5164957</item>
+   <item>16.3542195</item>
+   <item>18.6042038</item>
+   <item>17.145617</item>
+   <item>19.5590925</item>
+   <item>19.916191</item>
+   <item>19.4033111</item>
+   <item>20.0263489</item>
+   <item>21.402441</item>
+   <item>21.4791404</item>
+   <item>18.2979697</item>
+ </string-array>
+ <string-array name="latitude">
+  <item>76.642447</item>
+  <item>75.157931</item>
+  <item>80.589672</item>
+  <item>73.519464</item>
+  <item>78.703685</item>
+  <item>79.8224896</item>
+  <item>76.4705776</item>
+  <item>75.1350454</item>
+  <item>73.7069631</item>
+  <item>77.1621795</item>
+  <item>73.6787955</item>
+  <item>73.4664168</item>
+  <item>79.3617288</item>
+  <item>74.364446</item>
+  <item>77.1463276</item>
+  <item>79.9842184</item>
+  <item>75.6205285</item>
+  <item>78.6636543</item>
+  <item>76.0292528</item>
+  <item>73.9102707</item>
+  <item>74.9691003</item>
+  <item>74.3650098</item>
+  <item>73.2058161</item>
+  <item>78.4389008</item>
+  <item>72.9580235</item>
+  <item>74.0025201</item>
+  <item>77.3268561</item>
+  <item>75.7582171</item>
+  <item>75.9502763</item>
+ </string-array>
+
+   <string-array name="bird_name">
+    <item>Great Indian Bustard</item>
+    <item>Jaikwadi</item>
+    <item>Karnala</item>
+    <item>Lonar</item>
+    <item>Nandur Madhameshwar</item>
+    <item>Phansad</item>
+    <item>Thane Creek Flamingo</item>
+   </string-array>
+  <string-array name="bird_area">
+   <item>8496.44</item>
+   <item>341.05</item>
+   <item>4.48</item>
+   <item>1.17</item>
+   <item>100.12</item>
+   <item>69.79</item>
+   <item>16.90</item>
+  </string-array>
+   <string-array name="bird_estb">
+    <item>1979</item>
+    <item>1986</item>
+    <item>1968</item>
+    <item>2000</item>
+    <item>1986</item>
+    <item>1986</item>
+    <item>2015</item>
+   </string-array>
+   <string-array name="bird_location">
+    <item>Nannaj, Solapur District</item>
+    <item>Paithan taluka, Aurangabad District</item>
+    <item>Panvel taluka, Raigad District</item>
+    <item>Lonar, Buldhana district</item>
+    <item>Niphad Tehsil, Nashik District</item>
+    <item>Murud and Roha talukas, Raigad district</item>
+    <item>western bank of the Thane Creek, Thane District</item>
+    </string-array>
+   <string-array name="bird_fauna">
+    <item>Great Indian Bustard</item>
+    <item>Domicile Cranes, Flamingos, Brahmany Duck, Pochards Teals, Pintails, Wigeon, Shovellor, wit, Glossy ibis</item>
+    <item>fly-catcher, magpie robin,malabar whistling thrushes</item>
+    <item>peacock, owls, red-wattled lapwings, ducks</item>
+    <item>white stork, spoonbills, flamingo, mallard, pintails, wigeon, cranes shanks, pratincole wagtails, godwits, black ibis, teals, spot bills, egrets, herons, harriers, quails, buzzards, osprey, eagles, swift, sand pipe, peafowl, grey hornbill</item>
+    <item>Bellied Blue Flycatcher, Malabar Pied Hornbill, Black Eagle, Yellow Footed Green Pigeon,  Pompadour Green Pigeon, Forest Wagtail, Asian Paradise Flycatcher, Brahminy Kite, Spotted Owlet, Golden Oriole, Iora, Plum-headed Parakeet, Emerald Dove, Shikra </item>
+    <item>flamingos, pied avocet, black-headed ibis, marsh sandpiper, common greenshank, curlew sandpiper, gull-billed tern, caspian tern, little tern, whiite bellied sea eagle, eurasian marsh harrier</item>
+   </string-array>
+   <string-array name="bird_visit">
+    <item>January, August, September, October, November, December</item>
+    <item>January, February, October, November, December</item>
+    <item>January, February, March, April, May, October, November, December</item>
+    <item>January, February, March, October, November, December</item>
+    <item>January, February, March, December</item>
+    <item>January, February, March, April, October, November, December</item>
+    <item>All round the year</item>
+   </string-array>
+  <string-array name="longitude_b">
+    <item>17.8268182</item>
+    <item>19.4364236</item>
+    <item>18.8896966</item>
+    <item>19.9763319</item>
+    <item>20.0078606</item>
+    <item>18.4049302</item>
+    <item>19.0447942</item>
+  </string-array>
+ <string-array name="latitude_b">
+   <item>75.8665609</item>
+   <item>75.341144</item>
+   <item>73.1209698</item>
+   <item>76.5064907</item>
+   <item>74.1021036</item>
+   <item>72.9357809</item>
+   <item>72.961111</item>
+ </string-array>
+
+   <string-array name="np_name">
+    <item>Chandoli</item>
+    <item>Gugamal</item>
+    <item>Navegaon</item>
+    <item>Pench</item>
+    <item>Sanjay Gandhi</item>
+    <item>Tadoba</item>
+   </string-array>
+   <string-array name="np_estb">
+    <item>2004</item>
+    <item>1975</item>
+    <item>1975</item>
+    <item>1975</item>
+    <item>1983</item>
+    <item>1955</item>
+   </string-array>
+ <string-array name="np_longitude">
+  <item>17.1261096</item>
+  <item>21.312969</item>
+  <item>20.9755673</item>
+  <item>21.6350716</item>
+  <item>19.2143749</item>
+  <item>20.19378</item>
+ </string-array>
+ <string-array name="np_latitude">
+  <item>73.8571185</item>
+  <item>77.5165858</item>
+  <item>80.1629967</item>
+  <item>78.8233139</item>
+  <item>72.9115022</item>
+  <item>79.3378413</item>
+ </string-array>
+   <string-array name="np_area">
+    <item>317.67</item>
+    <item>361.28</item>
+    <item>133.88</item>
+    <item>292.8</item>
+    <item>86.96</item>
+    <item>116.55</item>
+   </string-array>
+   <string-array name="np_location">
+    <item>Chandoli Dam, Sangli</item>
+    <item>Chikhaldara and Dharni Tehsils of Amaravati District, part of Melghat Tiger Reserve</item>
+    <item>Navegoan, Bandhara District</item>
+    <item>70 km from Nagpur</item>
+    <item>Borivali, Mumbai District</item>
+    <item>Chandrapur District</item>
+   </string-array>
+   <string-array name="np_fauna">
+    <item>Bengal tigers, Indian leopards, Indian bison, leopard cats, sloth bears ,Indian giant squirrels,barking deer, sambar deer, mouse deer ,blackbuck</item>
+    <item>Bengal tiger, Indian leopard, sloth bear, Ussuri dhole, Indian jackal, striped hyena, chausinga, sambar (largest Deer on earth) gaur, barking deer, ratel, flying squirrel, cheetal (type of Deer), nilgai, wild boar, langur, rhesus monkey,macaque</item>
+    <item>Tiger, Panther, Bison, Sambar, Chital, Wild boar, Sloth Bear, Wild Dogs, Jungle cat, Small India Civet, Palm Civet, Wolf, Jacka</item>
+    <item>tiger, leopard, jungle cat, wild dog, hyena, jackal, civet, sambar, spotted deer, indian gaur, neelgai, four horned, antelope, barking deer, wild boar, ratel, sloth bear</item>
+    <item>Tiger, Rhesus macaque, Bonnet macaque, Indian hare, Barking deer, Porcupine, Asian palm civet, Mouse deer, Grey langur, Indian flying fox, Sambar deer, Leopard, Striped hyena</item>
+    <item>Wolf, Jackal, Wild dogs, Fox, Hyenas, Spotted Deer, Wild Boars, Barking deer, Gaurs, Four horned Antelopes, Blue bulls, Indian Pangolins, Common Languor’s, Porcupines, Sambar, Spotted deer, Rhesus macaque, Leopard, Rusty spotted cat, Jungle cat, Leopard cat, Sloth bear</item>
+   </string-array>
+   <string-array name="np_visit">
+    <item>January, February, October, November, December</item>
+    <item>April, May, June</item>
+    <item>January, February, March, April, May, October, November, December</item>
+    <item>January, February, March, April, May, June, October, November, December</item>
+    <item>October to April</item>
+    <item>January, February, March, April, May, June, October, November, December</item>
+   </string-array>
+
+</resources>
